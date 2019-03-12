@@ -1,0 +1,6 @@
+2019-01-31 09:38:51 - ::1 - http://localhost/aplikasi_keluhan_kerusakan_telkom/dashboard/semua_keluhan_masuk.php
+2019-01-31 09:38:59 - ::1 - http://localhost/aplikasi_keluhan_kerusakan_telkom/dashboard/diabaikan.php
+2019-01-31 09:39:04 - ::1 - http://localhost/aplikasi_keluhan_kerusakan_telkom/dashboard/dikerjakan.php
+2019-01-31 09:39:08 - ::1 - http://localhost/aplikasi_keluhan_kerusakan_telkom/dashboard/belum_dikerjakan.php
+2019-01-31 09:39:12 - ::1 - http://localhost/aplikasi_keluhan_kerusakan_telkom/dashboard/diabaikan.php
+2019-01-31 09:40:32 - ::1 - No Refferer

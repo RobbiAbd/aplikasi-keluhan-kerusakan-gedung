@@ -1,0 +1,67 @@
+/*body background color*/
+body {
+	background-color: orange;
+}
+
+/*content title*/
+.title-landing {
+	font-size: 50px;
+    margin-top: 250px;
+    margin-bottom: 1rem;
+}
+.sub-title-landing {
+	font-size: 15px;
+}
+
+
+/*header css*/
+.bg-dark{
+	 background-color: transparent!important; 
+}
+
+
+/*responsive mobile device 576 px*/
+@media only screen and (max-width: 576px) {
+
+	body {
+	background-color: grey;
+	}
+	
+	/*content title*/
+	.title-landing {
+	font-size: 30px;
+	margin-top: 100px;
+	}
+	
+	/*content subtitle*/
+	.font-weight-light {
+    padding-left: 5px;
+    padding-right: 5px;
+	}
+
+}
+
+/*responsive mobile small device 320px*/
+@media only screen and (max-width: 320px) {
+	/*penambahan margin dibawah button*/
+	.btn {
+		margin-bottom: 10px!important;
+	}
+}
+
+/*responsive tablet device 786 px*/
+@media only screen and (max-width: 786px) {
+	
+	/*content title*/
+	.title-landing {
+	font-size: 40px;
+	margin-top: 100px;
+	}
+	
+	/*content subtitle*/
+	.font-weight-light {
+    padding-left: 15px;
+    padding-right: 15px;
+	}
+
+}
